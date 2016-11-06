@@ -15,7 +15,7 @@ function menu(){
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">SB Admin v2.0</a>
+                <a class="navbar-brand" href="../index.php">SB Admin v2.0</a>
             </div>
             <!-- /.navbar-header -->
 
@@ -244,7 +244,7 @@ function menu(){
                             <!-- /input-group -->
                         </li>
                         <li>
-                            <a href="index.php"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
+                            <a href="../index.php"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Charts<span class="fa arrow"></span></a>
