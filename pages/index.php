@@ -5,13 +5,15 @@ require('footer.php');
 ?>
 <!DOCTYPE html>
 <html lang="es">
-<?php print head() ?>
+<head>
+<?php echo head() ?>
+</head>
 <body>
 
 <div id="wrapper">
 
     <!-- Navigation -->
-    <?php print menu() ?>
+    <?php echo menu() ?>
 
     <div id="page-wrapper">
         <div class="row">
